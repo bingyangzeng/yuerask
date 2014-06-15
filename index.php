@@ -1,7 +1,7 @@
 <?php
-/*
+/*	入口文件
 +--------------------------------------------------------------------------
-|   WeCenter [#RELEASE_VERSION#]
+|   WeCenter [#RELEASE_VERSION#] 
 |   ========================================
 |   by WeCenter Software
 |   © 2011 - 2013 WeCenter. All Rights Reserved

@@ -1,0 +1,16 @@
+#nav_main {
+	background: #78c6af;
+	border-radius: 8px;
+}
+#nav_ul_1 {
+}
+#nav_main li {
+	height: 100%;
+}
+#nav_ul_1 li a{
+	color: #FFF;
+	padding-top:18px;
+}
+#nav_ul_1   li  a:hover, #nav_ul_1   li  a:focus {
+    background-color: #53a58d;
+}
